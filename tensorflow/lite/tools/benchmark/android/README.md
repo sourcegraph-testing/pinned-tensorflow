@@ -155,3 +155,4 @@ device. Select the appropriate method to handle the generated file.
 ```
 adb shell setprop debug.tflite.trace 0
 ```
+Hello World

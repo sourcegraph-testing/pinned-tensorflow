@@ -239,3 +239,4 @@ adb shell \
     -l /data/local/tmp/labels.txt -j 1 \
     --use_nnapi=true --nnapi_accelerator_name=google-edgetpu"
 ```
+Hello World

@@ -85,3 +85,4 @@ int main(int argc, char** argv) {
 
 For a more fully-featured C++ example, see
 `tensorflow/cc/tutorials/example_trainer.cc`
+Hello World

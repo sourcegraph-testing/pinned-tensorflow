@@ -78,3 +78,4 @@ script from the root `tensorflow` directory:
 ```shell
 generate_xcodeproj.sh --genconfig tensorflow/lite/swift/TensorFlowLite.tulsiproj:TensorFlowLite --outputfolder ~/path/to/generated/TensorFlowLite.xcodeproj
 ```
+Hello World

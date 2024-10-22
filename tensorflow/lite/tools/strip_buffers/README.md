@@ -55,3 +55,4 @@ bazel run -c opt tensorflow/lite/tools/strip_buffers:reconstitute_buffers_into_f
 Both the above tools are present as `stripping_lib` in this directory, which
 mutate the flatbuffer(s) in-memory. This ensures we can do the above two steps
 without touching the filesystem again.
+Hello World
