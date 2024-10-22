@@ -53,3 +53,4 @@ In the minimal_build directory,
 ```sh
 ./minimal <path/to/tflite/model>
 ```
+Hello World

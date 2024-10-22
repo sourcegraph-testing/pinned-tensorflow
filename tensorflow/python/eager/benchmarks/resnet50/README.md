@@ -43,3 +43,4 @@ Intel Xeon E5-1650 CPU @ 3.50GHz and a batch size of 32.
 | ---------------------------------------  | ------------- | ------------- |
 | eager_train_gpu_batch_32_channels_first  |            32 |           171 |
 | graph_train_gpu_batch_32_channels_first  |            32 |           172 |
+Hello World
