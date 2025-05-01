@@ -20,3 +20,4 @@ bazel build -c opt --config=android_arm //tensorflow/lite/c:tensorflowlite_c
 
 If you encounter issues with native plugin discovery on Mac ("Darwin")
 platforms, try renaming `libtensorflowlite_c.dylib` to `tensorflowlite_c.bundle`.
+Hello World

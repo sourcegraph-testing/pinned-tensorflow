@@ -40,4 +40,4 @@ default values in the JSON file are for the Mobilenet_v2_1.0_224 model
 
 [build-ios]: https://tensorflow.org/lite/guide/build_ios
 [mobilenet-model]: https://github.com/tensorflow/tflite-support/raw/master/tensorflow_lite_support/metadata/python/tests/testdata/image_classifier/mobilenet_v2_1.0_224.tflite
-[mobilenet-paper]: https://arxiv.org/pdf/1704.04861.pdf
+[mobilenet-paper]: https://arxiv.org/pdf/1704.04861.pdfHello World

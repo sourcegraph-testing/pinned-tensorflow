@@ -47,4 +47,4 @@ In that case, a single GPU is necessary.
   -   `CUDA_VISIBLE_DEVICES` must be set correctly or not set at all.
 -   Crashes:
     -   We may want to use `--dynamic_mode=off`.
-    -   CUDA and Cudnn should be set up correctly.
+    -   CUDA and Cudnn should be set up correctly.Hello World

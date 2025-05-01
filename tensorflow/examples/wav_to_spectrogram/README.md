@@ -47,3 +47,4 @@ bazel-bin/tensorflow/examples/wav_to_spectrogram/wav_to_spectrogram \
 --stride=512 \
 --output_image=/tmp/my_spectrogram.png
 ```
+Hello World

@@ -50,3 +50,4 @@ code to merge.
   ```shell
   adb install bazel-bin/tensorflow/lite/java/demo/app/src/main/TfLiteCameraDemo.apk
   ```
+Hello World

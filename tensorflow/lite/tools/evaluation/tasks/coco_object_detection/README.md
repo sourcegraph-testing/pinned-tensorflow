@@ -262,3 +262,4 @@ bazel run -c opt \
   --model_output_labels=/path/to/labelmap.txt \
   --output_file_path=/path/to/coco_output.txt
 ```
+Hello World

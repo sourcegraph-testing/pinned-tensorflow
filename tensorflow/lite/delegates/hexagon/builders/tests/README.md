@@ -17,3 +17,4 @@ For example if files are extracted in /tmp/hexagon_skel, the sample command.
 `
 bash tensorflow/lite/delegates/hexagon/builders/tests/run_tests.sh /tmp/hexagon_skel
 `
+Hello World
